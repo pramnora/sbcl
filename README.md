@@ -15,9 +15,13 @@
 ...to exit REPL...  
 > (exit)  
 
+-----
+
 ## Example code  
 
 > (print "Hello, world!") ; output: Hello, world!
+
+-----
 
 ## Articles
 
