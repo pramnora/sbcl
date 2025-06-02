@@ -43,4 +43,6 @@ Main web site...
 
 ## YouTube Videos
 
-
+Introduction to Common Lisp / (Channel: CodeNextDoor)  
+- https://www.youtube.com/watch?v=GFtEGETLv0o&t=26s
+  
