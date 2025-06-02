@@ -38,6 +38,8 @@ Wikipedia article...
 
 Main web site...  
 - https://www.sbcl.org  
+- https://www.sbcl.org/manual/index.html
+
 
 -----
 
