@@ -10,9 +10,13 @@
 ### Linux Mint  
 
 > sudo apt install sbcl  
+
 ...to run REPL/Read Eval Print Loop...  
+
 > sbcl  
+
 ...to exit REPL...  
+
 > (exit)  
 
 -----
