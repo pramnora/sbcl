@@ -1,7 +1,7 @@
 # sbcl/Steel Bank Common Lisp
 
-**CREATED**: *Mon 2nd Jun 2025 01:02 AM GMT*  
-**UPDATED**: *Mon 2nd Jun 2025 01:02 AM GMT*  
+**CREATED**: *Mon 2 Jun 2025 01:02 AM GMT*  
+**UPDATED**: *Mon 7 Jul 2026 06:39 AM GMT*  
 
 -----
 
@@ -18,6 +18,10 @@
 ...to exit REPL...  
 
 > (exit)  
+
+...or,...  
+
+> (quit)  
 
 -----
 
