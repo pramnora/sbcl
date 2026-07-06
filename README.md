@@ -39,7 +39,17 @@ To run REPL this time use...
 
 ## Example code  
 
-> (print "Hello, world!") ; output: Hello, world!
+> (print "Hello, world!") ; output: Hello, world!  
+
+...save as: hw1.lisp  
+
+> (format t "Hello, world!~%")  
+
+...to run it...  
+
+> sbcl --script hw2.lisp  
+
+...save as: hw2.lisp  
 
 -----
 
