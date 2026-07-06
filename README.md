@@ -23,6 +23,20 @@
 
 -----
 
+## Install rlwrap  
+
+When you try to use the cursor to move around the lines...some weird characters might appear.  
+It is recommended you install rlwrap...which fixes this problem.
+
+> sudo apt install rlwrap  
+
+...then, you can move your cursor going back and forth along the line without any weird characters appearing, anymore.  
+To run REPL this time use...
+
+> rlwrap sbcl  
+
+-----
+
 ## Example code  
 
 > (print "Hello, world!") ; output: Hello, world!
