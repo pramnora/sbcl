@@ -15,13 +15,11 @@
 
 > sbcl  
 
-...to exit REPL...  
+...3 ways to exit REPL...  
 
 > (exit)  
-
-...or,...  
-
 > (quit)  
+> [CTRL] + [D]  
 
 -----
 
